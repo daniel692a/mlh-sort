@@ -1,11 +1,12 @@
-# Major League Hacking INIT 2022
+# Major League Hacking INIT 2022 DAY 2
 ## SAY HELLO TO THE 2022 HACKATHON SEASON
 This repository contains my first project at INIT 2022. It's purpose is sort a list of values
 ## Built with:
 > * Python
 > * Icecream
 
-### Devpost link for project🔥💻: [Devpost] (https://devpost.com/software/sort-a-list-w5deqy)
+### Devpost link for project🔥👇:
+[Devpost] (https://devpost.com/software/sort-a-list-w5deqy)
 
 ## Code:
 ```python
